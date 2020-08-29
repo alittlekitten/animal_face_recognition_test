@@ -380,3 +380,7 @@ body {
     color: #9b6b43;
     font-size: 1.2rem;
 }
+
+.ad-banner {
+    max-width: 320px;
+}
