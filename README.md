@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3">
   <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=CodePen">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Google Teachable Machine-E34F26?style=flat&logo=Google&logoColor=white"/>
   <img src="https://img.shields.io/badge/Disqus-2E9FFF?style=flat&logo=Disqus&logoColor=white">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github">
