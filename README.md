@@ -6,6 +6,10 @@
 
 - 해당하는 동물상의 설명과 연예인 예시도 포함되어 있습니다.
 
+- 조코딩님의 Google Teachable machine 유튜브 영상을 참조하여 만들었습니다.
+
+- 하단에 광고가 부착되어 있습니다.
+
 ## 🐹 접속 링크
 
 [인공지능 동물상 테스트 바로가기!!](https://ssocoanimal.netlify.app/)
@@ -15,6 +19,7 @@
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3">
+  <img src="https://img.shields.io/badge/CodePen-000000?style=flat&logo=CodePen">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=Django"/>
   <img src="https://img.shields.io/badge/Google Teachable Machine-E34F26?style=flat&logo=Google&logoColor=white"/>
